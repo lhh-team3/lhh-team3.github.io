@@ -2,7 +2,7 @@
 title: Project Design
 permalink: /design/
 # Paste the share link from screencast.com here.
-video: https://app.screencast.com/honCJHwmYXtNs
+video: https://app.screencast.com/C68KoaOSz4TB
 # A picture or short video of your design. Upload it to assets/images first.
 schematic: /assets/images/schematic.mp4
 # Optional one-line caption under the schematic.
