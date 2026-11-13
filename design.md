@@ -9,8 +9,8 @@ schematic: /assets/images/schematic.mp4
 schematic_caption:
 ---
 
-How our robot works, in one picture and one video. Change this sentence to say
-what your design does and why you built it that way.
+Buggy 12 is our zebra mussel recovery drone. It works like an underwater Roomba:
+the drone moves, and the drum is fixed to it.
 
 <style>
   .design-figure { margin: 0 0 1rem; text-align: center; }
@@ -54,5 +54,10 @@ what your design does and why you built it that way.
 
 ## How it works
 
-Walk people through your design. A few ideas: what each part of the robot does,
-what problem it solves, what you tried first, and what you'd change next time.
+1. **Fly down.** Guarded propellers drive it over the mussel bed.
+2. **Catch.** The open drum rolls mussels in.
+3. **Hopper.** One mussel at a time drops into the hopper.
+4. **Grind.** The grinder breaks them up.
+5. **Send out.** The hose carries the pieces to the surface.
+
+See our [Buggy 12 blueprints](/2026/10/14/buggy-12-blueprints/) for the full drawings.
